@@ -8,26 +8,26 @@ Aşağıda uygulamanın farklı ekranlarından bazı örnekler bulunmaktadır.
 
 ### Ana Ekran
 
-![Ana Ekran](screenshots/dolu_liste.jpeg){:width="300"}
+![Ana Ekran](screenshots/dolu_liste.jpeg)
 
 Ana ekran, kullanıcının mevcut görev listesini görüntüler. Görevler burada listelenir ve kullanıcı yeni görevler ekleyebilir, tamamlanan görevleri işaretleyebilir veya görevleri silebilir.
 
 ### Görev Listesi Boş
 
-![Görev Listesi Boş](screenshots/bos_liste.jpeg){:width="300"}
+![Görev Listesi Boş](screenshots/bos_liste.jpeg)
 
 Görev listesi boşken ana ekran böyle görünür.
 
 ### Görev Ekleme
 
-![Görev Ekleme](screenshots/gorev_ekleme.jpeg){:width="300"}
+![Görev Ekleme](screenshots/gorev_ekleme.jpeg)
 
 Görev ekleme ekranı, kullanıcının yeni bir görev eklemek için metin girmesine olanak tanır. Kullanıcı burada görevin önem derecesini belirleyebilir ve görevi kaydedebilir.
 
 
 ### Görev Silme
 
-![Görev Silme](screenshots/gorev_silme.jpeg){:width="300"}
+![Görev Silme](screenshots/gorev_silme.jpeg)
 
 Liste doluyken, bir görevin üzerine basılı tutunca görev silme diyaloğu açılır.
 
@@ -61,25 +61,25 @@ Below are some examples of different screens in the application.
 
 ### Home Screen
 
-![Home Screen](screenshots/dolu_liste.jpeg){:width="300"}
+![Home Screen](screenshots/dolu_liste.jpeg)
 
 The home screen displays the user's current task list. Tasks are listed here and the user can add new tasks, mark completed tasks, or delete tasks.
 
 ### Empty Task List
 
-![Empty Task List](screenshots/bos_liste.jpeg){:width="300"}
+![Empty Task List](screenshots/bos_liste.jpeg)
 
 The home screen when the task list is empty.
 
 ### Task Addition
 
-![Task Addition](screenshots/gorev_ekleme.jpeg){:width="300"}
+![Task Addition](screenshots/gorev_ekleme.jpeg)
 
 The task addition screen allows the user to enter a new task. The user can specify the priority level of the task and save it.
 
 ### Task Deletion
 
-![Task Deletion](screenshots/gorev_silme.jpeg){:width="300"}
+![Task Deletion](screenshots/gorev_silme.jpeg)
 
 When the task list is populated, long-pressing on a task triggers a task deletion dialog.
 
